@@ -1,0 +1,12 @@
+.main-img-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/231004103956-01-bookshelf-stock.jpg?c=original);
+    display: flex;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+}
