@@ -40,7 +40,7 @@ function App() {
 
       console.log(randomWrongIndex);
       console.log("wrong answer");
-      
+
       setBgImg(randomWrongImg);
     }
 
@@ -49,7 +49,8 @@ function App() {
 
   return (
     <>
-      {MainImgIsActive && <MainImg setUnActive={setMainImgUnActive} bgImg={bgImg}/>}
+      <div className="riddle-img"></div>
+      {MainImgIsActive && <MainImg setUnActive={setMainImgUnActive} bgImg={bgImg} className = "main-img"/>}
       <SearchForm handleAnswer={handleAnswer} />
     </>
   )
