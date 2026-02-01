@@ -14,6 +14,9 @@
         },
         {"answer":"фрем",
          "img": "https://i.pinimg.com/736x/3a/10/c3/3a10c39d4d635e0a6c82be4d9056ffaa.jpg"
+        },
+        {"answer":"бібліотека",
+         "img": "https://i.pinimg.com/1200x/1b/b9/22/1bb9227fc7bab37acada26c59fb14d8d.jpg"
         }
     ],
     "wrongAnswerImg":["https://i.pinimg.com/736x/17/25/55/17255528b6e0c9bd29251c7f03916991.jpg", 
