@@ -9,6 +9,7 @@ function App() {
   const [MainImgIsActive, setMainImgIsActive] = useState(false);
   const [bgImg, setBgImg] = useState('https://mariart.kiev.ua/image/catalog/188157629dfa/1fab6f285c6df081.jpg')
   const answersArray = myData.answersImg;
+  const wrongAnswerImgs = myData.wrongAnswerImg;
   const setMainImgActive = ()=>{
     setMainImgIsActive(true);
   }
@@ -23,10 +24,13 @@ function App() {
       if(item.answer === answer.toLowerCase()){
         setBgImg(item.img);
         console.log(item.img);
-        setMainImgActive();
       }
     });
-    //setMainImgActive();
+    if(!MainImgIsActive){
+      const randomWrongImg = wrongAnswerImgs[Math.floor(Math.random() * wrongAnswerImgs.length)];
+      setBgImg(randomWrongImg);
+    }
+    setMainImgActive();
   }
 
   return (
