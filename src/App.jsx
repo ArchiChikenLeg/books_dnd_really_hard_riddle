@@ -7,7 +7,8 @@ import myData from './data.json';
 function App() {
 
   const [MainImgIsActive, setMainImgIsActive] = useState(false);
-  const [bgImg, setBgImg] = useState('https://mariart.kiev.ua/image/catalog/188157629dfa/1fab6f285c6df081.jpg')
+  const [bgImg, setBgImg] = useState('https://mariart.kiev.ua/image/catalog/188157629dfa/1fab6f285c6df081.jpg');
+  const [prevWrongInd, setPrevWrongInd] = useState(3);
   const answersArray = myData.answersImg;
   const wrongAnswerImgs = myData.wrongAnswerImg;
   const setMainImgActive = ()=>{
@@ -20,16 +21,29 @@ function App() {
 
   const handleAnswer = (answer) =>{
     console.log(answer);
+
     answersArray.map((item)=>{
-      if(item.answer === answer.toLowerCase()){
+      if(item.answer == answer.toLowerCase()){
         setBgImg(item.img);
-        console.log(item.img);
+        console.log("correct answer");
       }
     });
-    if(!MainImgIsActive){
-      const randomWrongImg = wrongAnswerImgs[Math.floor(Math.random() * wrongAnswerImgs.length)];
+
+    if(!answersArray.some(item => item.answer == answer.toLowerCase())){
+      let randomWrongIndex;
+      do {
+        randomWrongIndex = Math.floor(Math.random() * wrongAnswerImgs.length);
+      } while (randomWrongIndex === prevWrongInd);
+      setPrevWrongInd(randomWrongIndex);
+
+      const randomWrongImg = wrongAnswerImgs[randomWrongIndex];
+
+      console.log(randomWrongIndex);
+      console.log("wrong answer");
+      
       setBgImg(randomWrongImg);
     }
+
     setMainImgActive();
   }
 
