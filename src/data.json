@@ -23,10 +23,13 @@
         },
         {"answer":"лафлкїнхрр",
          "img": "https://i.pinimg.com/736x/18/09/63/180963672d3cc09f3cf693afe3b0307f.jpg"
+        }, 
+        {"answer":"фреммевіг",
+         "img": "https://i.pinimg.com/736x/5e/2a/67/5e2a672a773ea6a0685dc4c6751c8748.jpg"
         }
     ],
     "wrongAnswerImg":["https://i.pinimg.com/736x/61/46/98/614698c731f07b1ab201a42d6452f667.jpg", 
                      "https://i.pinimg.com/736x/34/c5/a4/34c5a4c11c2c22c5b49c788c7f1001c3.jpg", 
-                     "https://i.pinimg.com/736x/75/49/64/754964db41424d212e73b7838e773b43.jpg", 
+                     "https://i.pinimg.com/736x/75/49/64/754964db41424d212e73b7838e773b43.jpg"
                     ]
 }
