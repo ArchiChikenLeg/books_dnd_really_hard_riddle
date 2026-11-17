@@ -1,158 +1,175 @@
 {
     "answersImg":[
         {"answer":"ллкея",
-         "img": "https://i.pinimg.com/736x/62/90/85/629085daf5b1c05864be9f27004282f0.jpg"
+         "img": ["https://i.pinimg.com/736x/62/90/85/629085daf5b1c05864be9f27004282f0.jpg"]
         },
         {"answer":"всріо",
-         "img": "https://i.pinimg.com/736x/5c/5f/90/5c5f9052a75c431ff71e01996d37b380.jpg"
+         "img": ["https://i.pinimg.com/736x/5c/5f/90/5c5f9052a75c431ff71e01996d37b380.jpg"]
         },
         {"answer":"афїнр",
-         "img": "https://i.pinimg.com/736x/89/f6/66/89f66684a1c0807df233c829a9dd8192.jpg"
+         "img": ["https://i.pinimg.com/736x/89/f6/66/89f66684a1c0807df233c829a9dd8192.jpg"]
         },
         {"answer":"дскао",
-         "img": "https://i.pinimg.com/736x/04/98/e4/0498e423290c72538a611f4bd88acb35.jpg"
+         "img": ["https://i.pinimg.com/736x/04/98/e4/0498e423290c72538a611f4bd88acb35.jpg"]
         },
         {"answer":"вллсскнірр",
-         "img": "https://i.pinimg.com/736x/0a/8f/c6/0a8fc6152c143321eb160e9db3de538a.jpg"
+         "img": ["https://i.pinimg.com/736x/0a/8f/c6/0a8fc6152c143321eb160e9db3de538a.jpg"]
         },
         {"answer":"лаяфїсхнро", 
-         "img": "https://i.pinimg.com/736x/b4/8c/f6/b48cf65a21e2575433c1153ccada6d2a.jpg"
+         "img": ["https://i.pinimg.com/736x/b4/8c/f6/b48cf65a21e2575433c1153ccada6d2a.jpg"]
         },
         {"answer":"роадяфїсхн",
-         "img": "https://i.pinimg.com/736x/81/73/8f/81738f6fcfce68f27cb1fd84871a84b2.jpg"
+         "img": ["https://i.pinimg.com/736x/81/73/8f/81738f6fcfce68f27cb1fd84871a84b2.jpg"]
         },
         {"answer":"лафлкїнхрр",
-         "img": "https://i.pinimg.com/736x/f7/26/ae/f726ae9162dbd91df6444d7abfdc81bb.jpg"
+         "img": ["https://i.pinimg.com/736x/f7/26/ae/f726ae9162dbd91df6444d7abfdc81bb.jpg"]
         },
         {"answer":"влокіряадяфїанр",
-         "img": "https://i.pinimg.com/736x/8e/f7/2e/8ef72eaeecf983f2adfd550e6eb7be57.jpg"
+         "img": ["https://i.pinimg.com/736x/8e/f7/2e/8ef72eaeecf983f2adfd550e6eb7be57.jpg"]
         },
         {"answer":"лвдфлссрїхаівор",
-         "img": "https://i.pinimg.com/736x/b3/88/fd/b388fda3f2b13231ee3af936c0023327.jpg"
+         "img": ["https://i.pinimg.com/736x/b3/88/fd/b388fda3f2b13231ee3af936c0023327.jpg"]
         }, 
         {"answer":"вааясфкюреаняов",
-         "img": "https://i.pinimg.com/736x/9e/1e/cc/9e1ecca863df6f7cfa5d68d3772330a1.jpg"
+         "img": ["https://i.pinimg.com/736x/9e/1e/cc/9e1ecca863df6f7cfa5d68d3772330a1.jpg"]
         },
         {"answer":"вдалфясрсіехррр",
-         "img": "https://i.pinimg.com/736x/4b/67/ba/4b67ba6d3dc145b643c69bdc8a097fa6.jpg"
+         "img": ["https://i.pinimg.com/736x/4b/67/ba/4b67ba6d3dc145b643c69bdc8a097fa6.jpg"]
         },
         {"answer":"аадфяякскіанооо",
-         "img": "https://i.pinimg.com/736x/61/e9/23/61e92348c8b5b45b41abb72fb9c9a02d.jpg"
+         "img": ["https://i.pinimg.com/736x/61/e9/23/61e92348c8b5b45b41abb72fb9c9a02d.jpg"]
         },
         {"answer":"фреммевіг",
-         "img": "https://i.pinimg.com/736x/5e/2a/67/5e2a672a773ea6a0685dc4c6751c8748.jpg"
+         "img": ["https://i.pinimg.com/736x/5e/2a/67/5e2a672a773ea6a0685dc4c6751c8748.jpg"]
         },
         {"answer":"фремм",
-         "img": "https://i.pinimg.com/736x/5e/2a/67/5e2a672a773ea6a0685dc4c6751c8748.jpg"
+         "img": ["https://i.pinimg.com/736x/5e/2a/67/5e2a672a773ea6a0685dc4c6751c8748.jpg"]
         },
         {"answer":"лест",
-         "img": "https://i.pinimg.com/736x/b6/77/37/b677378a877d8d7e840f68623200f9e8.jpg"
+         "img": ["https://i.pinimg.com/736x/b6/77/37/b677378a877d8d7e840f68623200f9e8.jpg"]
         },
         {"answer":"лестелла",
-         "img": "https://i.pinimg.com/736x/b6/77/37/b677378a877d8d7e840f68623200f9e8.jpg"
+         "img": ["https://i.pinimg.com/736x/b6/77/37/b677378a877d8d7e840f68623200f9e8.jpg"]
         },
         {"answer":"штраль",
-         "img": "https://i.pinimg.com/736x/08/9d/7f/089d7feb89597b59d04963f358eacd49.jpg"
+         "img": ["https://i.pinimg.com/736x/08/9d/7f/089d7feb89597b59d04963f358eacd49.jpg"]
         },
         {"answer":"габріелла",
-         "img": "https://i.pinimg.com/736x/2c/cd/32/2ccd32c13fbc01e9c7fde5fd49f39608.jpg"
+         "img": ["https://i.pinimg.com/736x/2c/cd/32/2ccd32c13fbc01e9c7fde5fd49f39608.jpg"]
         },
         {"answer":"афрія",
-         "img": "https://i.pinimg.com/736x/2c/cd/32/2ccd32c13fbc01e9c7fde5fd49f39608.jpg"
+         "img": ["https://i.pinimg.com/736x/2c/cd/32/2ccd32c13fbc01e9c7fde5fd49f39608.jpg"]
         },
         {"answer":"принцеса",
-         "img": "https://i.pinimg.com/736x/07/56/aa/0756aac6f4cc505f932059bc35368448.jpg"
+         "img": ["https://i.pinimg.com/736x/07/56/aa/0756aac6f4cc505f932059bc35368448.jpg"]
         },
         {"answer":"принц",
-         "img": "https://i.pinimg.com/736x/be/9b/ca/be9bcae920e51b394a92817b3a2b338f.jpg"
+         "img": ["https://i.pinimg.com/736x/be/9b/ca/be9bcae920e51b394a92817b3a2b338f.jpg"]
         },
         {"answer":"фраццио",
-         "img": "https://i.pinimg.com/736x/d5/cb/ed/d5cbed35b6d139e9463da5a0176a4669.jpg"
+         "img": ["https://i.pinimg.com/736x/d5/cb/ed/d5cbed35b6d139e9463da5a0176a4669.jpg"]
         },
         {"answer":"фрацц",
-         "img": "https://i.pinimg.com/736x/84/7f/df/847fdf734f214cab91e7bf511aeba262.jpg"
+         "img": ["https://i.pinimg.com/736x/84/7f/df/847fdf734f214cab91e7bf511aeba262.jpg"]
         },
         {"answer":"архі",
-         "img": "https://i.pinimg.com/736x/50/bb/70/50bb702511bc9cf91a70b94587204a7a.jpg"
+         "img": ["https://i.pinimg.com/736x/50/bb/70/50bb702511bc9cf91a70b94587204a7a.jpg"]
         },
         {"answer":"архіваріус",
-         "img": "https://i.pinimg.com/736x/50/bb/70/50bb702511bc9cf91a70b94587204a7a.jpg"
+         "img": ["https://i.pinimg.com/736x/50/bb/70/50bb702511bc9cf91a70b94587204a7a.jpg"]
         },
         {"answer":"дероу теннек",
-         "img": "https://i.pinimg.com/736x/c6/de/ad/c6dead5a4fbb31f72a115cad2efae795.jpg"
+         "img": ["https://i.pinimg.com/736x/c6/de/ad/c6dead5a4fbb31f72a115cad2efae795.jpg"]
         },
         {"answer":"дероу",
-         "img": "https://i.pinimg.com/736x/c6/de/ad/c6dead5a4fbb31f72a115cad2efae795.jpg"
+         "img": ["https://i.pinimg.com/736x/c6/de/ad/c6dead5a4fbb31f72a115cad2efae795.jpg"]
         },
          {"answer":"теннек",
-         "img": "https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"
+         "img": ["https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"]
         },
          {"answer":"сезіф",
-         "img": "https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"
+         "img": ["https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"]
         },
         {"answer":"сезіф теннек",
-         "img": "https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"
+         "img": ["https://i.pinimg.com/736x/d6/90/5f/d6905fb57c34a0bd348a60425e6c8565.jpg"]
         },
         {"answer":"зелений лорд",
-         "img": "https://i.pinimg.com/736x/15/4c/98/154c987e13eea964a222bf450c18c748.jpg"
+         "img": ["https://i.pinimg.com/736x/15/4c/98/154c987e13eea964a222bf450c18c748.jpg"]
         },
         {"answer":"бейонд",
-         "img": "https://i.pinimg.com/736x/13/c1/0f/13c10f561aaec04920bcab663f2bdf92.jpg"
+         "img":["https://i.pinimg.com/736x/13/c1/0f/13c10f561aaec04920bcab663f2bdf92.jpg"]
         },
         {"answer":"Конезір",
-         "img": "https://i.pinimg.com/736x/ed/a6/a7/eda6a755da49e6ba9a6cc2e6c0a129eb.jpg"
+         "img": ["https://i.pinimg.com/736x/ed/a6/a7/eda6a755da49e6ba9a6cc2e6c0a129eb.jpg"]
         },
         {"answer":"Вальдар",
-         "img": "https://i.pinimg.com/736x/78/ee/af/78eeafd89a7db37ed7892270d1410782.jpg"
+         "img": ["https://i.pinimg.com/736x/78/ee/af/78eeafd89a7db37ed7892270d1410782.jpg"]
         },
         {"answer":"блек'морін",
-         "img": "https://i.pinimg.com/736x/45/d6/24/45d6249b47a94f55ef9741e4fa3c7f5b.jpg"
+         "img": ["https://i.pinimg.com/736x/45/d6/24/45d6249b47a94f55ef9741e4fa3c7f5b.jpg"]
         },
         {"answer":"мамхібіу",
-         "img": "https://i.pinimg.com/736x/17/3f/de/173fdef2cb03e166cb18a2f2e001230c.jpg"
+         "img": ["https://i.pinimg.com/736x/17/3f/de/173fdef2cb03e166cb18a2f2e001230c.jpg"]
         },
         {"answer":"заркана ноіла",
-         "img": "https://i.pinimg.com/736x/4b/f9/ce/4bf9ced86f199e67334070250e2226a4.jpg"
+         "img": ["]https://i.pinimg.com/736x/4b/f9/ce/4bf9ced86f199e67334070250e2226a4.jpg"]
         },
         {"answer":"окімідзу",
-         "img": "https://i.pinimg.com/736x/b1/9e/d6/b19ed6e02894d9ff5e9f1e8216975f7d.jpg"
+         "img": ["https://i.pinimg.com/736x/b1/9e/d6/b19ed6e02894d9ff5e9f1e8216975f7d.jpg"]
         },
         {"answer":"окімідзу",
-         "img": "https://i.pinimg.com/736x/b1/9e/d6/b19ed6e02894d9ff5e9f1e8216975f7d.jpg"
+         "img": ["https://i.pinimg.com/736x/b1/9e/d6/b19ed6e02894d9ff5e9f1e8216975f7d.jpg"]
         },
         {"answer":"бренайорр",
-         "img": "https://i.pinimg.com/736x/7b/b5/f9/7bb5f96f7e3b4c4fe85986f29fea887d.jpg"
+         "img": ["https://i.pinimg.com/736x/7b/b5/f9/7bb5f96f7e3b4c4fe85986f29fea887d.jpg"]
         },
         {"answer":"даск",
-         "img": "https://i.pinimg.com/736x/76/31/a7/7631a71c41df4b79fed3305a3d2d8cd9.jpg"
+         "img": ["https://i.pinimg.com/736x/76/31/a7/7631a71c41df4b79fed3305a3d2d8cd9.jpg"]
         },
         {"answer":"кійохі",
-         "img": "https://i.pinimg.com/736x/9d/19/3f/9d193fd2860344f42a88b7c32a16e545.jpg"
+         "img": ["https://i.pinimg.com/736x/9d/19/3f/9d193fd2860344f42a88b7c32a16e545.jpg"]
         },
         {"answer":"кійохі акіноха",
-         "img": "https://i.pinimg.com/736x/9d/19/3f/9d193fd2860344f42a88b7c32a16e545.jpg"
+         "img": ["https://i.pinimg.com/736x/9d/19/3f/9d193fd2860344f42a88b7c32a16e545.jpg"]
         },
         {"answer":"арендель",
-         "img": "https://i.pinimg.com/736x/c9/6b/a5/c96ba5511e58f884174bdf01fd01d514.jpg"
+         "img": ["https://i.pinimg.com/736x/c9/6b/a5/c96ba5511e58f884174bdf01fd01d514.jpg"]
         },
         {"answer":"аренд",
-         "img": "https://i.pinimg.com/736x/c9/6b/a5/c96ba5511e58f884174bdf01fd01d514.jpg"
+         "img": ["https://i.pinimg.com/736x/c9/6b/a5/c96ba5511e58f884174bdf01fd01d514.jpg"]
         },
         {"answer":"вокс",
-         "img": "https://i.pinimg.com/736x/55/69/ee/5569ee90e50432ec81bf186ce62f4bed.jpg"
+         "img": ["https://i.pinimg.com/736x/55/69/ee/5569ee90e50432ec81bf186ce62f4bed.jpg"]
         },
         {"answer":"trust us",
-         "img": "https://i.pinimg.com/736x/55/69/ee/5569ee90e50432ec81bf186ce62f4bed.jpg"
+         "img": ["https://i.pinimg.com/736x/55/69/ee/5569ee90e50432ec81bf186ce62f4bed.jpg"]
         },
         {"answer":"очі",
-         "img": "https://i.pinimg.com/736x/80/ef/87/80ef873081eea9c0371a6946428d1b6d.jpg"
+         "img": ["https://i.pinimg.com/736x/80/ef/87/80ef873081eea9c0371a6946428d1b6d.jpg"]
         }, 
-         {"answer":"рандом тест",
-         "img": ["https://i.pinimg.com/736x/79/ec/d5/79ecd58893e41e2ce52260f9b2429e24.jpg", 
-         "https://i.pinimg.com/1200x/5f/eb/56/5feb5685132a6c7b94cbcbb976c30e94.jpg",
-         "https://i.pinimg.com/736x/83/36/fe/8336fe92a8aae344245818cca0316775.jpg",
-         "https://i.pinimg.com/736x/5c/92/fe/5c92fe7342c20918613b431d6c3be159.jpg",
-         "https://i.pinimg.com/736x/19/7b/7c/197b7ccdbd327f7fde1cbe0b045069fa.jpg"]
+         {"answer":"яфсхд",
+         "img": ["https://i.pinimg.com/736x/46/95/7d/46957d4044e4306510373fc0d748872a.jpg", 
+         "https://i.pinimg.com/736x/52/39/40/523940b93555460fe508f49bc7c1ebfa.jpg",
+         "https://i.pinimg.com/736x/2b/e2/ac/2be2acbe34236fe3269ea7104b9d1f2d.jpg",
+         "https://i.pinimg.com/736x/87/2c/c9/872cc9b47ba5a3bb758dd3c77acdd596.jpg",
+         "https://i.pinimg.com/736x/27/a2/dd/27a2dd57e9dba0220610df1adb78f335.jpg"]
+        },
+        {"answer":"вфїіооклсі",
+         "img": ["https://i.pinimg.com/736x/72/29/31/722931df536ddac5e9c76bfeec38cf07.jpg", 
+         "https://i.pinimg.com/736x/32/f1/d2/32f1d2c087764aecc000c1d9091b3616.jpg",
+         "https://i.pinimg.com/736x/9b/80/ab/9b80abf8d6a6c3e473b224d969dec970.jpg"]
+        },{"answer":"ніндзя",
+         "img": ["https://i.pinimg.com/736x/9c/94/ed/9c94ed6b80ebf6c142357b48f92bb123.jpg"]
+        },{"answer":"блазень",
+         "img": ["https://i.pinimg.com/736x/fd/46/14/fd4614c1ae26d6b3d5c4fa822f81a399.jpg"]
+        },{"answer":"чарівник",
+         "img": ["https://i.pinimg.com/736x/27/9f/3c/279f3ccbe9fdb2f247f203d7fc63219d.jpg"]
+        },{"answer":"лфюнрлскхялфрер",
+         "img": ["https://i.pinimg.com/736x/d6/93/89/d69389527dc6f82d60d0841572e0c16c.jpg"]
+        },{"answer":"лсовіхарррррррал",
+         "img": ["https://i.pinimg.com/736x/77/4e/87/774e8786dcd86d54332c1f6829397b1e.jpg"]
+        },{"answer":"вфрер",
+         "img": ["https://i.pinimg.com/736x/41/9a/73/419a73371f33088708355d00a3afab51.jpg"]
         }
         
         

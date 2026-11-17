@@ -9,6 +9,7 @@ function App() {
   const [MainImgIsActive, setMainImgIsActive] = useState(false);
   const [bgImg, setBgImg] = useState('https://mariart.kiev.ua/image/catalog/188157629dfa/1fab6f285c6df081.jpg');
   const [prevWrongInd, setPrevWrongInd] = useState(3);
+  const [prevRightInd, setPrevRightInd] = useState(5);
   const answersArray = myData.answersImg;
   const wrongAnswerImgs = myData.wrongAnswerImg;
   const setMainImgActive = ()=>{
@@ -24,7 +25,21 @@ function App() {
 
     answersArray.map((item)=>{
       if(item.answer == answer.toLowerCase()){
-        setBgImg(item.img);
+      const rightAnswerImgs = item.img;
+      let randomRightImg = rightAnswerImgs[0];
+      if (rightAnswerImgs.length = 1){
+        randomRightImg = rightAnswerImgs[0];
+      } 
+      else {
+      let randomRightIndex;
+      do {
+        randomRightIndex = Math.floor(Math.random() * rightAnswerImgs.length);
+      } while (randomRightIndex === prevRightInd);
+      setPrevRightInd(randomRightIndex);
+
+      randomRightImg = rightAnswerImgs[randomRightIndex];
+      }
+        setBgImg(randomRightImg);
         console.log("correct answer");
       }
     });
