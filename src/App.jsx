@@ -27,17 +27,18 @@ function App() {
       if(item.answer == answer.toLowerCase()){
       const rightAnswerImgs = item.img;
       let randomRightImg = rightAnswerImgs[0];
-      if (rightAnswerImgs.length = 1){
+      if (rightAnswerImgs.length == 1){
         randomRightImg = rightAnswerImgs[0];
       } 
       else {
-      let randomRightIndex;
-      do {
-        randomRightIndex = Math.floor(Math.random() * rightAnswerImgs.length);
-      } while (randomRightIndex === prevRightInd);
-      setPrevRightInd(randomRightIndex);
+        let randomRightIndex;
+        do {
+          randomRightIndex = Math.floor(Math.random() * rightAnswerImgs.length);
+        } while (randomRightIndex === prevRightInd);
+        setPrevRightInd(randomRightIndex);
 
-      randomRightImg = rightAnswerImgs[randomRightIndex];
+        randomRightImg = rightAnswerImgs[randomRightIndex];
+        console.log(randomRightIndex);
       }
         setBgImg(randomRightImg);
         console.log("correct answer");
